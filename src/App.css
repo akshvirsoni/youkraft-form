@@ -1,0 +1,12 @@
+.content{
+  max-width: 480px !important;
+}
+
+.content h3{
+  text-align: center;
+}
+
+.form-buttons{
+  display: flex;
+  justify-content: space-between;
+}
